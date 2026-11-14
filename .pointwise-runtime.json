@@ -5,11 +5,10 @@
   "verify": [
     "python3",
     "exposure_check.py",
-    "baseline"
+    "verify"
   ],
   "demo": [
     "python3",
-    "exposure_probe.py",
-    "all"
+    "exposure_evidence.py"
   ]
 }
