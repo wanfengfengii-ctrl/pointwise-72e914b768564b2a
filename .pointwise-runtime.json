@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "kind": "cli",
+  "setup": [],
+  "verify": [
+    "python3",
+    "exposure_check.py",
+    "baseline"
+  ],
+  "demo": [
+    "python3",
+    "exposure_probe.py",
+    "all"
+  ]
+}
